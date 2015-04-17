@@ -13,6 +13,11 @@
 <!-- TemplateParam name="companions" type="boolean" value="false" -->
 <!-- TemplateParam name="The Villains" type="boolean" value="true" -->
 <!-- TemplateParam name="villains" type="boolean" value="false" -->
+<link href="../styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateParam name="main page" type="boolean" value="false" -->
+<!-- TemplateParam name="mainpage" type="boolean" value="false" -->
+<!-- TemplateParam name="main-1" type="boolean" value="true" -->
+<!-- TemplateParam name="main2" type="boolean" value="false" -->
 </head>
 
 <body>
@@ -24,7 +29,7 @@
     <td><a href="../The-villians/index.html">The Villans </a></td>
   </tr>
   <tr>
-    <td colspan="4">[Banner]</td>
+    <td colspan="4"><!-- TemplateBeginEditable name="banners" -->[Banner]<!-- TemplateEndEditable --></td>
   </tr>
 </table>
 <table width="1000">
@@ -74,9 +79,15 @@
         <li><a href="../The-villians/the-family-of-blood.html">The Family of Blood</a></li>
         <li><a href="../The-villians/luke-rattigan.html">Luke Rattigan</a></li>
       
-        <li><a href="../The-villians/salamander.html">Salamander</a></li>
+        <li><a href="../The-villians/salamander.html">Salamander</a>      </li>
       </ul>
-      <!-- TemplateEndIf --></td>
+      <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['main2']" -->
+      <ul>
+        <li><a href="../main-page/history.html">History</a></li>
+        <li><a href="../main-page/premise.html">Premise</a></li>
+        <li><a href="../main-page/episodes.html">Episodes</a></li>
+      </ul>
+<!-- TemplateEndIf --></td>
     <td><!-- TemplateBeginEditable name="Content" -->
       <h1>Doctor Who Homepage    </h1>
     <!-- TemplateEndEditable --></td>
