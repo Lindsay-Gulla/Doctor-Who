@@ -40,46 +40,46 @@
         <li><a href="../The-doctors/the-first-doc.html">The First Doctor</a></li>
         <li><a href="../The-doctors/the-second-doc.html">The Second Doctor</a></li>
         <li><a href="../The-doctors/the-third-doc.html">The Third Doctor</a></li>
-        <li><a href="../The-doctors/the-fourth-doctor.html">The Fouth Doctor</a></li>
-        <li><a href="../The-doctors/the-fifth-doctor.html">The Fifth Doctor</a></li>
-        <li><a href="../The-doctors/the-sixth-doctor.html">The Sixth Doctor </a></li>
-        <li><a href="../The-doctors/the-seventh-doctor.html">The Seventh Doctor</a></li>
-        <li><a href="../The-doctors/the-eighth-doctor.html">The Eighth Doctor</a></li>
-        <li><a href="../The-doctors/the-war-doctor.html">The War Doctor </a></li>
-        <li><a href="../The-doctors/the-ninth-doctor.html">The Ninth Doctor </a></li>
-        <li><a href="../The-doctors/the-tenth-doctor.html">The Tenth Doctor</a></li>
-        <li><a href="../The-doctors/the-eleventh-doctor.html">The Eleventh Doctor</a></li>
-        <li><a href="../The-doctors/the-twelth-doctor.html">The Twelth Doctor </a></li>
+        <li><a href="../The-doctors/the-fourth-doc.html">The Fouth Doctor</a></li>
+        <li><a href="../The-doctors/the-fifth-doc.html">The Fifth Doctor</a></li>
+        <li><a href="../The-doctors/the-sixth-doc.html">The Sixth Doctor </a></li>
+        <li><a href="../The-doctors/the-seventh-doc.html">The Seventh Doctor</a></li>
+        <li><a href="../The-doctors/the-eigth-doc.html">The Eighth Doctor</a></li>
+        <li><a href="../The-doctors/the-war-doc.html">The War Doctor </a></li>
+        <li><a href="../The-doctors/the-ninth-doc.html">The Ninth Doctor </a></li>
+        <li><a href="../The-doctors/the-tenth-doc.html">The Tenth Doctor</a></li>
+        <li><a href="../The-doctors/the-eleventh-doc.html">The Eleventh Doctor</a></li>
+        <li><a href="../The-doctors/the-twelth-doc.html">The Twelth Doctor </a></li>
         <!-- TemplateEndIf -->
     </ul>
       <ul>
         <!-- TemplateBeginIf cond="companions" --><li>The Companions</li>
-          <li><a href="../The-Campanions/susan-foreman.html">Susan Foreman</a></li>
-          <li><a href="../The-Campanions/steven-taylor.html">Steven Taylor</a></li>
-          <li><a href="../The-Campanions/jean-marsh.html">Jean Marsh</a></li>
-          <li><a href="../The-Campanions/liz-shaw.html">Liz Shaw</a></li>
-          <li><a href="../The-Campanions/jo-grant.html">Jo Grant</a></li>
-          <li><a href="../The-Campanions/zoe-heriot.html">Zoe Heriot</a></li>
-          <li><a href="../The-Campanions/polly.html">Polly</a></li>
-          <li><a href="../The-Campanions/vicki.html">Vicki</a></li>
-          <li><a href="../The-Campanions/leela.html">Leela</a></li>
-          <li><a href="../The-Campanions/harry-sullivan.html">Harry Sullivan</a></li>
+          <li><a href="../The-Campanions/susan-foreman1.html">Susan Foreman</a></li>
+          <li><a href="../The-Campanions/steven-taylor1.html">Steven Taylor</a></li>
+          <li><a href="../The-Campanions/jean-marsh1.html">Jean Marsh</a></li>
+          <li><a href="../The-Campanions/liz-shaw1.html">Liz Shaw</a></li>
+          <li><a href="../The-Campanions/jo-grant1.html">Jo Grant</a></li>
+          <li><a href="../The-Campanions/zoe-hariot1.html">Zoe Heriot</a></li>
+          <li><a href="../The-Campanions/polly1.html">Polly</a></li>
+          <li><a href="../The-Campanions/vicki1.html">Vicki</a></li>
+          <li><a href="../The-Campanions/leela1.html">Leela</a></li>
+          <li><a href="../The-Campanions/harry-sullivan1.html">Harry Sullivan</a></li>
         <!-- TemplateEndIf -->
       </ul>
       <!-- TemplateBeginIf cond="_document['villains']" -->
       <ul>
         <li>The Villains</li>
-        <li><a href="../The-villians/Animus.html">Animus</a></li>
-        <li><a href="../The-villians/azal.html">Azal</a></li>
-        <li><a href="../The-villians/dream-lord.html">Dream Lord</a></li>
-        <li><a href="../The-villians/the-collector.html">The Collector</a></li>
-        <li><a href="../The-villians/harrison-chase.html">Harrison Chase</a></li>
-        <li><a href="../The-villians/general-cobb.html">General Cobb</a></li>
-        <li><a href="../The-villians/eve.html">Eve</a></li>
-        <li><a href="../The-villians/the-family-of-blood.html">The Family of Blood</a></li>
-        <li><a href="../The-villians/luke-rattigan.html">Luke Rattigan</a></li>
+        <li><a href="../The-villians/animus1.html">Animus</a></li>
+        <li><a href="../The-villians/azal1.html">Azal</a></li>
+        <li><a href="../The-villians/dream-lord1.html">Dream Lord</a></li>
+        <li><a href="../The-villians/the-collector1.html">The Collector</a></li>
+        <li><a href="../The-villians/harrison-chase1.html">Harrison Chase</a></li>
+        <li><a href="../The-villians/gen-cobb.html">General Cobb</a></li>
+        <li><a href="../The-villians/eve1.html">Eve</a></li>
+        <li><a href="../The-villians/the-fam-of-blood.html">The Family of Blood</a></li>
+        <li><a href="../The-villians/luke.html">Luke Rattigan</a></li>
       
-        <li><a href="../The-villians/salamander.html">Salamander</a>      </li>
+        <li><a href="../The-villians/salamander1.html">Salamander</a>      </li>
       </ul>
       <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['main2']" -->
       <ul>
