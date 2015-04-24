@@ -24,22 +24,22 @@
 <table width="1000">
   <tr>
     <td><a href="../index.html">Home</a></td>
-    <td><a href="../The-doctors/index.html">The Doctors</a></td>
-    <td><a href="../The-Campanions/index.html">The Companions</a></td>
-    <td><a href="../The-villians/index.html">The Villans </a></td>
+    <td><a href="../The-doctors/index1.html">The Doctors</a></td>
+    <td><a href="../The-Campanions/index1.html">The Companions</a></td>
+    <td><a href="../The-villians/index1.html">The Villans </a></td>
   </tr>
   <tr>
     <td colspan="4"><!-- TemplateBeginEditable name="banners" -->[Banner]<!-- TemplateEndEditable --></td>
   </tr>
 </table>
-<table width="1000">
+<table width="950">
   <tr>
-    <td><ul>
+    <td class="secondary-nav"><ul>
       <!-- TemplateBeginIf cond="_document['The Doctors Menu']" -->
         <li>The Doctors</li>
-        <li><a href="../The-doctors/the-first-doctor.html">The First Doctor</a></li>
-        <li><a href="../The-doctors/the-second-doctor.html">The Second Doctor</a></li>
-        <li><a href="../The-doctors/the-third-doctor.html">The Third Doctor</a></li>
+        <li><a href="../The-doctors/the-first-doc.html">The First Doctor</a></li>
+        <li><a href="../The-doctors/the-second-doc.html">The Second Doctor</a></li>
+        <li><a href="../The-doctors/the-third-doc.html">The Third Doctor</a></li>
         <li><a href="../The-doctors/the-fourth-doctor.html">The Fouth Doctor</a></li>
         <li><a href="../The-doctors/the-fifth-doctor.html">The Fifth Doctor</a></li>
         <li><a href="../The-doctors/the-sixth-doctor.html">The Sixth Doctor </a></li>
@@ -88,7 +88,7 @@
         <li><a href="../main-page/episodes.html">Episodes</a></li>
       </ul>
 <!-- TemplateEndIf --></td>
-    <td><!-- TemplateBeginEditable name="Content" -->
+    <td class="content-area"><!-- TemplateBeginEditable name="Content" -->
       <h1>Doctor Who Homepage    </h1>
     <!-- TemplateEndEditable --></td>
   </tr>
