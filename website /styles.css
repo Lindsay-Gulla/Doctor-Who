@@ -16,15 +16,21 @@ body {
 }
 .content-area {
 	padding-left: 50px;
-	background-color: #6FC;
+	background-color: #69F;
+	border: thick ridge #060;
 }
 .secondary-nav {
 	vertical-align: top;
 	width: 30%;
 	background-color: #FFC;
+	border: thick ridge #060;
 }
 .buttons {
-	background-color: #CCC;
 	text-align: center;
 	width: 25px;
+	background-color: #CCC;
+}
+#wrapper {
+	margin-right: auto;
+	margin-left: auto;
 }
