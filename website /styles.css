@@ -23,3 +23,8 @@ body {
 	width: 30%;
 	background-color: #FFC;
 }
+.buttons {
+	background-color: #CCC;
+	text-align: center;
+	width: 25px;
+}
